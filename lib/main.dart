@@ -23,7 +23,7 @@ class HelloApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Hello Flutter new',
+      title: 'Hello Flutter',
 
       theme: ThemeData(
         colorSchemeSeed: const Color(0xFF7B1FA2),
